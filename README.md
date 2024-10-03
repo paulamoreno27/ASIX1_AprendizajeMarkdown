@@ -34,3 +34,12 @@ Las etiquetas en **_markdown_** y HTML pueden anidarse.
 ![TextoAlternativo](UbicaciónDeLaImagen "Titulo opcional")
 
 ![Foto Gato Fresa](https://github.com/paulamoreno27/ASIX1_AprendizajeMarkdown/blob/main/gatofresa.jpg "Titulo opcional")
+
+
+### Como hacer una tabla:
+
+|Titulo 1|Titulo 2|Titulo 3|
+|---------|:-----------:|----------------:|
+|SMX2 |Curso 2324|25|
+|ASIX1|Curso 2425|33| 
+|**DAW2**|Curso 2425|32|
