@@ -20,3 +20,16 @@ Las etiquetas en **_markdown_** y HTML pueden anidarse.
 * Primer punto de la lista
 - Segundo punto de la lista
 + Tercer punto de la lista
+
+
+### Como poner un link:
+
+[textoclicable](URL "Titulo opcional")
+
+[Página web de Jesüites Bellvitge](https://www.fje.edu/ca/jesuites-bellvitge "Titulo opcional")
+
+
+### Como poner una imagen:
+
+![TextoAlternativo](UbicaciónDeLaImagen "Titulo opcional")
+
