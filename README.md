@@ -33,4 +33,4 @@ Las etiquetas en **_markdown_** y HTML pueden anidarse.
 
 ![TextoAlternativo](UbicaciónDeLaImagen "Titulo opcional")
 
-! [Foto Gato Fresa](https://github.com/paulamoreno27/ASIX1_AprendizajeMarkdown/blob/main/gatofresa.jpg "Titulo opcional")
+![Foto Gato Fresa](https://github.com/paulamoreno27/ASIX1_AprendizajeMarkdown/blob/main/gatofresa.jpg "Titulo opcional")
